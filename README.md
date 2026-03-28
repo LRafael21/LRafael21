@@ -103,7 +103,7 @@ MySQL         ███████████████░░░░░  76%
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C8A96E)](www.linkedin.com/in/luis-rafael-baltodano-paulino-651423254)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C8A96E)](https://www.linkedin.com/in/luis-rafael-baltodano-paulino-651423254)
 &nbsp;
 
 </div>
