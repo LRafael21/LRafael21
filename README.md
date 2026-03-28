@@ -78,7 +78,7 @@ MySQL         ███████████████░░░░░  76%
 
 | | |
 |:---:|:---:|
-| **3+** | **10+** |
+| **4+** | **10+** |
 | años de experiencia | tecnologías dominadas |
 | **∞** | **100%** |
 | bugs resueltos | compromiso con el código |
